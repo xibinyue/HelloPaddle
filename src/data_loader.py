@@ -1,6 +1,6 @@
 #!/usr/bin/evn python
 # -*- coding: utf-8 -*-
-# Copyright (c) 2018 - xibin.yue <xibin.yue@moji.com>
+# Copyright (c) 2019 -
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
